@@ -216,6 +216,7 @@
     height: 309px;
     background-position: 50% 50%;
     background-size: cover;
+    cursor: pointer;
 }
 .name{
     font-size: 12px;
