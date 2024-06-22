@@ -167,6 +167,7 @@
     overflow: hidden;
     position: relative;
     display: flex;
+    cursor: pointer;
 }
 
 .marquee:hover .marquee__cont {
@@ -178,7 +179,6 @@
     white-space: nowrap;
     padding-left: 50%;
     animation: marquee 35s linear infinite;
-    cursor: pointer;
 }
   
 @keyframes marquee {
