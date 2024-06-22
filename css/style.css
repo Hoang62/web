@@ -178,6 +178,7 @@
     white-space: nowrap;
     padding-left: 50%;
     animation: marquee 35s linear infinite;
+    cursor: pointer;
 }
   
 @keyframes marquee {
